@@ -1,0 +1,57 @@
+.nav ul li {
+    list-style-type:none;
+    width: 100%;
+    display: inline;
+    margin: 5px;
+    padding: 15px 10px;
+    font-size: 20px;
+}
+.nav {
+    position: sticky;
+}
+
+
+.nav li a {
+    
+    padding: 15px;
+    text-decoration: none;
+    color: #000;   
+}
+.class ul li{
+    display: inline;
+    padding: 20px;
+}
+.a {
+    background-color: rgb(165, 161, 161);
+}
+.one td {
+    padding: 20px;
+    
+    text-decoration: aqua;
+}
+
+.banner {
+    height: 70mm;
+    width: 300mm;
+    border: dotted;
+    text-align: center;
+    margin-left: 30mm;
+}
+.table1 {
+    width: 100%;
+    background-color: rgb(180, 180, 180);
+    padding: 15px;
+    margin: 5mm;
+}
+.navbar {
+    background-color: crimson;
+    position:fixed;
+    width: 100%;
+    
+}
+.navbar :hover{
+    background-color: darkblue;
+}
+.table1 :hover{
+    background-color: darkblue;
+}
