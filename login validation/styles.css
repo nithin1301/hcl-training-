@@ -15,7 +15,7 @@
     background:rgba(0,0 green,0 blue,10 alpha);
     
 }
-.login input[type="text"],.login input[type="password"] 
+.login input[type="email"],.login input[type="password"] 
 {
 background: none;
 display: block;
